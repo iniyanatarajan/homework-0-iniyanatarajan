@@ -4,7 +4,12 @@ You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Iniya Natarajan's First CS193 Homework
+# Iniya Natarajan's First CS193 Homework
+
+- TAs are quick to respond to questions or concerns on ed Discussion
+- Homework assignments make up 70% of my grade.
+- No exams
+- PSO is online
 
 ### Markdown
 
